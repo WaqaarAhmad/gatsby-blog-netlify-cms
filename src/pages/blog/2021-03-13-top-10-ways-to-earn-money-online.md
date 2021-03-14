@@ -4,7 +4,7 @@ title: Top 10 ways to earn money online
 date: 2021-03-13T18:53:09.227Z
 description: In this blog, I am going to tell you different ways to earn money online.
 featuredpost: true
-featuredimage: /img/buzzcity18-best-ways-to-earn-money-online.jpg
+featuredimage: /img/buzzcity18-amazon_web_services.png
 tags:
   - earn
   - money
